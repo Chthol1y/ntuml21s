@@ -1,3 +1,12 @@
+**/.ipynb_checkpoints/
+**/.vscode
+
 # hw5 dataset
 hw5/ted2020.tgz
 hw5/test.tgz
+
+# hw6 dataset
+hw6/faces
+hw6/.vscode
+hw6/output/
+hw6/crypko_data.zip
