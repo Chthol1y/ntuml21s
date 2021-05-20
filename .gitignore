@@ -10,3 +10,10 @@ hw6/faces
 hw6/.vscode
 hw6/output/
 hw6/crypko_data.zip
+
+# hw7 model checkpoint
+hw7/simple_baseline/pytorch_model.bin
+hw7/simple_baseline/config.json
+
+# hw8 dataset
+hw8/data-bin.tar.gz
